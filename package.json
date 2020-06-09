@@ -19,7 +19,6 @@
       "extensions": "js,jsx"
     }
   },
-
   "homepage": "http://Nike98.github.io/Sorting-Visualizer-React",
   "scripts": {
     "watch": "npm-watch",
