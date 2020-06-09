@@ -2,6 +2,7 @@
   "name": "sortingalgoproj",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Nike98.github.io/Sorting-Visualizer-React",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -19,7 +20,6 @@
       "extensions": "js,jsx"
     }
   },
-  "homepage": "http://Nike98.github.io/Sorting-Visualizer-React",
   "scripts": {
     "watch": "npm-watch",
     "start": "react-scripts start",
