@@ -7,7 +7,7 @@ This is a basic project developed using React JS to visualize various sorting al
 - Quick Sort
 <br><br>
 Access the code in action using this link https://nike98.github.io/Sorting-Visualizer-React/.
-<br>
+
 ![](sorting_visualizer.gif)
 
 ## To Be Implemented
